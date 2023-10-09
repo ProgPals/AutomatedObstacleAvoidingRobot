@@ -1,2 +1,2 @@
 # AutomatedObstacleAvoidingRobot 
-!()["./final_prototype.jpg"] 
+![no-alt-text](final_prototype.jpg)
